@@ -4,7 +4,9 @@ Welcome to my personal portfolio! This website showcases my skills, projects, ed
 
 ## 🌐 Live Portfolio
 
-**Coming Soon** – Website deployment in progress.
+**Explore my portfolio:** [View My Portfolio](https://my-portfolio-website-seven-puce.vercel.app/)
+
+My personal portfolio website is now live! 🚀
 
 ## 🛠️ Technologies Used
 
@@ -108,7 +110,7 @@ Output directory: `dist`
 Information Science Engineering Student | Aspiring Frontend Developer
 
 - GitHub: [manya-shettigar](https://github.com/manya-shettigar)
-- Portfolio: [Coming Soon](https://my-portfolio-website-seven-puce.vercel.app/)
+- Portfolio: [Portfolio](https://my-portfolio-website-seven-puce.vercel.app/)
 
 ---
 
