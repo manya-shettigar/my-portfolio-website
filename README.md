@@ -108,7 +108,7 @@ Output directory: `dist`
 Information Science Engineering Student | Aspiring Frontend Developer
 
 - GitHub: [manya-shettigar](https://github.com/manya-shettigar)
-- Portfolio: Coming Soon
+- Portfolio: [Coming Soon](https://my-portfolio-website-seven-puce.vercel.app/)
 
 ---
 
